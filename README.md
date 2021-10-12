@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **antoniovmonge@gmail.com**
 
-- 📄 My resume [here](https://www.canva.com/design/DAEiRxRvqxU/RTiiw20knn-8xGxuimx4JA/view?utm_content=DAEiRxRvqxU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- 📄 My resume [here](https://drive.google.com/file/d/1bJpLoVPzd5z8DVArKHK2ISEsfvevc275/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
