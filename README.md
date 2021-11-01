@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">A passionate Data Analyst from Spain living in Berlin</h3>
 
+- 🌱 I’m currently going deeper with **Django, Database Mangement and Flask**
+
 - 🔭 My first project deployed: [psycovid-data-science-project](https://psycovid-dash.herokuapp.com/)
 
 - 👯 Another project I'm working on: [E-Commerce Analysis](https://olist-dash-antonio.herokuapp.com/)
-
-- 🌱 I’m currently learning **Database Mangement, Flask**
 
 - 👨‍💻 All of my projects are available at [MY PORTFOLIO](https://antonio-vm-portfolio.herokuapp.com/)
 
