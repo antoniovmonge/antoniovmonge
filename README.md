@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
-<h3 align="center">A passionate Data Analyst from Spain living in Berlin</h3>
+<h3 align="center">A passionate Python Developer and Data Analyst from Spain living in Berlin</h3>
 
 - 🌱 I’m currently going deeper with **Django, Database Mangement and Flask**
 
