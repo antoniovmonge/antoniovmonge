@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
-<h3 align="center">A passionate Python Developer and Data Analyst from Spain living in Berlin</h3>
+<!-- <h3 align="center">A passionate Python Developer and Data Analyst from Spain living in Berlin</h3> -->
 
 - 🌱 I’m currently going deeper with **Django, Database Mangement and Flask**
 
-- 🔭 My first project deployed: [psycovid-data-science-project](https://psycovid-dash.herokuapp.com/)
+<!-- - 🔭 My first project deployed: [psycovid-data-science-project](https://psycovid-dash.herokuapp.com/) -->
 
-- 👯 Another project I'm working on: [E-Commerce Analysis](https://olist-dash-antonio.herokuapp.com/)
+<!-- - 👯 Another project I'm working on: [E-Commerce Analysis](https://olist-dash-antonio.herokuapp.com/) -->
 
-- 👨‍💻 All of my projects are available at [MY PORTFOLIO](https://antonio-vm-portfolio.herokuapp.com/)
+<!-- - 👨‍💻 All of my projects are available at [MY PORTFOLIO](https://antonio-vm-portfolio.herokuapp.com/) -->
 
 - 📫 How to reach me **antoniovmonge@gmail.com**
 
-- 📄 My resume [here](https://drive.google.com/file/d/1bJpLoVPzd5z8DVArKHK2ISEsfvevc275/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
